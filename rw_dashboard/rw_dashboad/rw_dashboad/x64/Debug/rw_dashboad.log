@@ -1,0 +1,6 @@
+﻿  window.cpp
+C:\Dev\rewind-mono\rw_dashboard\rw_dashboad\rw_dashboad\src\window.cpp(19,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Dev\rewind-mono\rw_dashboard\rw_dashboad\rw_dashboad\src\window.cpp(19,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Dev\rewind-mono\rw_dashboard\rw_dashboad\rw_dashboad\src\window.cpp(45,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\rewind-mono\rw_dashboard\rw_dashboad\rw_dashboad\src\window.cpp(45,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  rw_dashboad.vcxproj -> C:\Dev\rewind-mono\rw_dashboard\rw_dashboad\x64\Debug\rw_dashboad.exe
